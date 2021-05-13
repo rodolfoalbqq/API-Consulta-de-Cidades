@@ -1,4 +1,4 @@
-<h1> API-Consulta-de-Cidades </h1>
+<h1> Consulta de cidades </h1>
   
   <h2>Descrição</h2> 
   
